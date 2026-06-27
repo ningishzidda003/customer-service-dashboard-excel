@@ -6,7 +6,7 @@ for analyzing call center performance.
 ---
 
 ## Dashboard Preview
-![Dashboard](dashboard-preview.pdf)
+![Dashboard](dashboard-preview.png)
 
 ## Features
 
