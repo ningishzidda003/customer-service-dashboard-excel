@@ -1,5 +1,8 @@
 # Call Center Dashboard (Excel)
 
+Built with:
+Excel • Power Query • Pivot Tables • VBA
+
 Interactive dashboard built in Microsoft Excel
 for analyzing call center performance.
 
